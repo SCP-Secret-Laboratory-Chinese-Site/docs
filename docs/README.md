@@ -13,6 +13,7 @@
 
 ## 🛠 如何贡献文档
 
+Github仓库地址: https://github.com/SCP-Secret-Laboratory-Chinese-Site/docs
 1. 在仓库的 `docs` 目录下找到对应的 **客户端或服务端页面**。
 2. 新增或编辑文件时，请确保：
    - 文件格式为 `README.md`。
